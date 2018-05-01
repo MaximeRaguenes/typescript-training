@@ -101,7 +101,6 @@ describe('class', () => {
     }
 
     class Rockman extends Musician {
-
     }
 
     const rockman = new Rockman()
